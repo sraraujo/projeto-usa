@@ -1,0 +1,50 @@
+<li>Alabama</li>
+<li>Alasca</li>
+<li>Arkansas</li>
+<li>Arizona</li>
+<li>Califórnia</li>
+<li>Cansas</li>
+<li>Carolina do Norte</li>
+<li>Carolina do Sul</li>
+<li>Colorado</li>
+<li>Conecticute</li>
+<li>Dacota do Norte</li>
+<li>Dacota do Sul</li>
+<li>Delaware</li>
+<li>Flórida</li>
+<li>Geórgia</li>
+<li>Havaí</li>
+<li>Idaho</li>
+<li>Ilha de Rodes</li>
+<li>Ilinóis</li>
+<li>Indiana</li>
+<li>Iowa</li>
+<li>Kentucky</li>
+<li>Luisiana</li>
+<li>Maine</li>
+<li>Marilândia</li>
+<li>Massachussets</li>
+<li>Michigan</li>
+<li>Minesota</li>
+<li>Mississípi</li>
+<li>Missúri</li>
+<li>Montana</li>
+<li>Nebrasca</li>
+<li>Nevada</li>
+<li>Nova Hampshire</li>
+<li>Nova Jérsei</li>
+<li>Nova Iorque</li>
+<li>Novo México</li>
+<li>Oklahoma</li>
+<li>Ohio</li>
+<li>Óregon</li>
+<li>Pensilvânia</li>
+<li>Tenessi</li>
+<li>Texas</li>
+<li>Utah</li>
+<li>Vermonte</li>
+<li>Virgínia</li>
+<li>Virgínia Ocidental</li>
+<li>Washington</li>
+<li>Wisconsin</li>
+<li>Wyoming</li>
