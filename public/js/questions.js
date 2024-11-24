@@ -18,6 +18,7 @@ export default [
       { option: "Ásia", correct: false },
       { option: "América do Norte", correct: true },
       { option: "Oceania", correct: false },
+      { option: "América do Sul", correct: false }
     ],
   },
 
